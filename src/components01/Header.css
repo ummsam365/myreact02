@@ -1,0 +1,15 @@
+.Header h3 {
+  color:#1f93ff;
+  margin-bottom: 0px;
+}
+
+/* Span MenuLink */
+.textlink { color: DarkSlateBlue;
+            font-weight:bold;
+          }
+.textlink:hover { 
+    color:DeepSkyBlue; 
+    font-size:1.2em; 
+    font-weight:bold;
+    cursor:pointer;
+}
